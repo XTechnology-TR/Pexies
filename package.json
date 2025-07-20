@@ -32,7 +32,7 @@
     "bad-words": "^3.0.3",
     "buefy": "^0.9.2",
     "cache-manager": "^3.4.0",
-    "compression": "^1.7.4",
+    "compression": "^1.8.1",
     "crypto-js": "^4.0.0",
     "dotenv": "^8.2.0",
     "flickr-sdk": "^3.9.0",
